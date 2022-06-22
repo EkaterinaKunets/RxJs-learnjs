@@ -13,7 +13,7 @@
   "devDependencies": {
     "@types/bootstrap-slider": "^9.9.1",
     "@types/jasmine": "^3.5.10",
-    "@types/jquery": "^3.3.38",
+    "@types/jquery": "^3.5.14",
     "html-webpack-plugin": "^4.3.0",
     "jasmine-core": "^3.5.0",
     "karma": "^5.0.9",
